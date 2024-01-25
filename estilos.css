@@ -1,0 +1,32 @@
+
+
+
+
+
+
+ .circulo{
+    width: 200px;
+    height: 200px;
+    border: 20px rgb(184, 125, 7) solid;
+    background-color: rgb(83, 103, 12);
+    border-radius: 50%;
+    box-shadow:  2px 2px 2px rgb(42, 37, 37);
+   text-align: center;
+   user-select: none;
+   z-index: 10;
+} 
+
+.flecha{
+    width: 200px;
+    height: 200px;
+   
+    font-size: 80PX;
+
+}
+
+
+.result{
+    border: black 1px solid;
+    margin-top: 20px;
+    font-size: 40px;
+}
